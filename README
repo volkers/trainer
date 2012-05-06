@@ -1,0 +1,13 @@
+# trainer
+
+Trainer is a program helping learn something by heart
+
+## Usage
+
+lein run
+
+## License
+
+Copyright (C) 2012 Volker Sarodnick
+
+Distributed under the Eclipse Public License, the same as Clojure.
