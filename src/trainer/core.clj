@@ -273,7 +273,7 @@ respective :p-fac"
   (alert e (lang-lbl :about-text)))
 
 (defn help-handler [e]
-  (alert e "not implemented yet"))
+  (alert e (lang-lbl :help-text)))
 
 (defn ask-for-saving []
   (-> (dialog
